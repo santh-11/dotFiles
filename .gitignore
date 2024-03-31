@@ -5,6 +5,7 @@ scripts/
 server/
 sqlCon/
 existingFiles/
+serverConfig.sh
 
 #skipping config files
 .angular-config.json
@@ -35,3 +36,6 @@ existingFiles/
 *.txt
 *.csv
 *.md
+
+zsh-syntax-highlighting/
+

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1711888017,,"wq"
+|2,0,1711890889,,"wq"
 :q
 |2,0,1711887432,,"q"
 
@@ -27,20 +27,36 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.gitconfig
-|4,48,1,0,1711888017,"~/.gitconfig"
-'1  1  0  ~/.config/starship.toml
-|4,49,1,0,1711887432,"~/.config/starship.toml"
+'0  55  0  ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+|4,48,55,0,1711890889,"~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
+'1  1  0  ~/.gitconfig
+|4,49,1,0,1711888017,"~/.gitconfig"
+'2  1  0  ~/.config/starship.toml
+|4,50,1,0,1711887432,"~/.config/starship.toml"
 
 # Jumplist (newest first):
+-'  55  0  ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+|4,39,55,0,1711890889,"~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
+-'  1  0  ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+|4,39,1,0,1711890885,"~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1711888017,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1711888017,"~/.gitconfig"
 -'  1  0  ~/.config/starship.toml
 |4,39,1,0,1711887432,"~/.config/starship.toml"
 -'  1  0  ~/.config/starship.toml
 |4,39,1,0,1711887432,"~/.config/starship.toml"
+-'  1  0  ~/.config/starship.toml
+|4,39,1,0,1711887432,"~/.config/starship.toml"
+-'  1  0  ~/.config/starship.toml
+|4,39,1,0,1711887432,"~/.config/starship.toml"
 
 # History of marks within files (newest to oldest):
+
+> ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+	*	1711890888	0
+	"	55	0
 
 > ~/.gitconfig
 	*	1711888017	0
