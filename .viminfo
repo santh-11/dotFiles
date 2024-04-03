@@ -10,13 +10,20 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
-:wq
-|2,0,1711890889,,"wq"
 :q
-|2,0,1711887432,,"q"
+|2,0,1711997991,,"q"
+:wq
+|2,0,1711997744,,"wq"
+:lazy
+|2,0,1711996824,,"lazy"
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1711995334,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -27,32 +34,249 @@
 # Registers:
 
 # File marks:
-'0  55  0  ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-|4,48,55,0,1711890889,"~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
-'1  1  0  ~/.gitconfig
-|4,49,1,0,1711888017,"~/.gitconfig"
-'2  1  0  ~/.config/starship.toml
-|4,50,1,0,1711887432,"~/.config/starship.toml"
+'0  4  0  ~/.config/nvim/init.lua
+|4,48,4,0,1711997991,"~/.config/nvim/init.lua"
+'1  3  1  ~/.config/nvim/lua/raavan/core/options.lua
+|4,49,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
+'2  4  0  ~/.config/nvim/init.lua
+|4,50,4,0,1711997379,"~/.config/nvim/init.lua"
+'3  1  0  ~/.config/nvim/init.lua
+|4,51,1,0,1711996826,"~/.config/nvim/init.lua"
+'4  1  0  ~/.config/nvim/init.lua
+|4,52,1,0,1711996826,"~/.config/nvim/init.lua"
+'5  1  0  ~/.config/nvim/init.lua
+|4,53,1,0,1711996826,"~/.config/nvim/init.lua"
+'6  1  0  ~/.config/nvim/init.lua
+|4,54,1,0,1711996826,"~/.config/nvim/init.lua"
+'7  16  35  ~/.zshrc
+|4,55,16,35,1711996340,"~/.zshrc"
+'8  16  31  ~/.zshrc
+|4,56,16,31,1711996313,"~/.zshrc"
+'9  16  33  ~/.zshrc
+|4,57,16,33,1711995938,"~/.zshrc"
 
 # Jumplist (newest first):
--'  55  0  ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-|4,39,55,0,1711890889,"~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
--'  1  0  ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-|4,39,1,0,1711890885,"~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1711888017,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1711888017,"~/.gitconfig"
--'  1  0  ~/.config/starship.toml
-|4,39,1,0,1711887432,"~/.config/starship.toml"
--'  1  0  ~/.config/starship.toml
-|4,39,1,0,1711887432,"~/.config/starship.toml"
--'  1  0  ~/.config/starship.toml
-|4,39,1,0,1711887432,"~/.config/starship.toml"
--'  1  0  ~/.config/starship.toml
-|4,39,1,0,1711887432,"~/.config/starship.toml"
+-'  4  0  ~/.config/nvim/init.lua
+|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
+-'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
+|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
+-'  1  0  ~/.config/nvim/lua/raavan/core/options.lua
+|4,39,1,0,1711997731,"~/.config/nvim/lua/raavan/core/options.lua"
+-'  4  0  ~/.config/nvim/init.lua
+|4,39,4,0,1711997379,"~/.config/nvim/init.lua"
+-'  4  0  ~/.config/nvim/init.lua
+|4,39,4,0,1711997379,"~/.config/nvim/init.lua"
+-'  1  0  ~/.config/nvim/init.lua
+|4,39,1,0,1711997375,"~/.config/nvim/init.lua"
+-'  1  0  ~/.config/nvim/init.lua
+|4,39,1,0,1711997375,"~/.config/nvim/init.lua"
+-'  1  0  ~/.config/nvim/init.lua
+|4,39,1,0,1711997375,"~/.config/nvim/init.lua"
+-'  1  0  ~/.config/nvim/init.lua
+|4,39,1,0,1711996826,"~/.config/nvim/init.lua"
+-'  1  0  ~/.config/nvim/init.lua
+|4,39,1,0,1711996826,"~/.config/nvim/init.lua"
+-'  16  35  ~/.zshrc
+|4,39,16,35,1711996340,"~/.zshrc"
+-'  16  35  ~/.zshrc
+|4,39,16,35,1711996340,"~/.zshrc"
+-'  16  35  ~/.zshrc
+|4,39,16,35,1711996340,"~/.zshrc"
+-'  16  35  ~/.zshrc
+|4,39,16,35,1711996340,"~/.zshrc"
+-'  16  35  ~/.zshrc
+|4,39,16,35,1711996340,"~/.zshrc"
+-'  16  35  ~/.zshrc
+|4,39,16,35,1711996340,"~/.zshrc"
+-'  16  35  ~/.zshrc
+|4,39,16,35,1711996340,"~/.zshrc"
+-'  16  35  ~/.zshrc
+|4,39,16,35,1711996340,"~/.zshrc"
+-'  16  35  ~/.zshrc
+|4,39,16,35,1711996340,"~/.zshrc"
+-'  16  35  ~/.zshrc
+|4,39,16,35,1711996340,"~/.zshrc"
+-'  16  35  ~/.zshrc
+|4,39,16,35,1711996340,"~/.zshrc"
+-'  16  35  ~/.zshrc
+|4,39,16,35,1711996340,"~/.zshrc"
+-'  16  31  ~/.zshrc
+|4,39,16,31,1711996313,"~/.zshrc"
+-'  16  31  ~/.zshrc
+|4,39,16,31,1711996313,"~/.zshrc"
+-'  16  31  ~/.zshrc
+|4,39,16,31,1711996313,"~/.zshrc"
+-'  16  31  ~/.zshrc
+|4,39,16,31,1711996313,"~/.zshrc"
+-'  16  31  ~/.zshrc
+|4,39,16,31,1711996313,"~/.zshrc"
+-'  16  31  ~/.zshrc
+|4,39,16,31,1711996313,"~/.zshrc"
+-'  16  31  ~/.zshrc
+|4,39,16,31,1711996313,"~/.zshrc"
+-'  16  31  ~/.zshrc
+|4,39,16,31,1711996313,"~/.zshrc"
+-'  16  31  ~/.zshrc
+|4,39,16,31,1711996313,"~/.zshrc"
+-'  16  31  ~/.zshrc
+|4,39,16,31,1711996313,"~/.zshrc"
+-'  16  31  ~/.zshrc
+|4,39,16,31,1711996313,"~/.zshrc"
+-'  16  31  ~/.zshrc
+|4,39,16,31,1711996313,"~/.zshrc"
+-'  16  33  ~/.zshrc
+|4,39,16,33,1711995938,"~/.zshrc"
+-'  16  33  ~/.zshrc
+|4,39,16,33,1711995938,"~/.zshrc"
+-'  16  33  ~/.zshrc
+|4,39,16,33,1711995938,"~/.zshrc"
+-'  16  33  ~/.zshrc
+|4,39,16,33,1711995938,"~/.zshrc"
+-'  16  33  ~/.zshrc
+|4,39,16,33,1711995938,"~/.zshrc"
+-'  16  33  ~/.zshrc
+|4,39,16,33,1711995938,"~/.zshrc"
+-'  16  33  ~/.zshrc
+|4,39,16,33,1711995938,"~/.zshrc"
+-'  16  33  ~/.zshrc
+|4,39,16,33,1711995938,"~/.zshrc"
+-'  16  33  ~/.zshrc
+|4,39,16,33,1711995938,"~/.zshrc"
+-'  16  33  ~/.zshrc
+|4,39,16,33,1711995938,"~/.zshrc"
+-'  16  33  ~/.zshrc
+|4,39,16,33,1711995938,"~/.zshrc"
+-'  16  33  ~/.zshrc
+|4,39,16,33,1711995938,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  18  0  ~/.zshrc
+|4,39,18,0,1711995924,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
+-'  15  0  ~/.zshrc
+|4,39,15,0,1711995587,"~/.zshrc"
 
 # History of marks within files (newest to oldest):
+
+> ~/.config/nvim/init.lua
+	*	1711997990	0
+	"	4	0
+
+> ~/.config/nvim/lua/raavan/core/options.lua
+	*	1711997744	0
+	"	3	1
+	^	3	2
+	.	27	1
+	+	27	1
+
+> ~/.zshrc
+	*	1711996339	0
+	"	16	35
+	^	16	36
+	.	16	35
+	+	15	5
+	+	16	35
 
 > ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 	*	1711890888	0

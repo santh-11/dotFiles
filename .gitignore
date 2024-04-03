@@ -15,7 +15,7 @@ serverConfig.sh
 .bash_history
 .bash_logout
 .cache/
-.config/
+#.config/
 .docker/
 .java/
 .lesshst
