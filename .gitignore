@@ -34,4 +34,4 @@ learnings/kubernetes/
 *.md
 .wget-hsts
 zsh-syntax-highlighting/
-
+.kube/

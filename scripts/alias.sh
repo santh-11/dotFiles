@@ -12,7 +12,7 @@ alias ps="ps -aex"
 alias ga="grep -A"
 alias gb="grep -B"
 alias g="grep"
-
+alias x="exit"
 #alias sudo="sudo"
 alias m="mkdir"
 alias t="touch"
