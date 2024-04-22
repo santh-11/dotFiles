@@ -2,7 +2,7 @@
 proj/
 server/
 learnings/kubernetes/
-
+.oh-my-zsh/
 #skipping config files
 .angular-config.json
 .dotnet/
