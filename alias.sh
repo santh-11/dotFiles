@@ -27,10 +27,19 @@ alias g="grep"
 
 #docker config
 alias dps="docker ps"
-alias dr="docker run -p"
+alias dr="docker run"
 alias di="docker images"
 alias dre="docker rm"
+alias dri="docker rmi"
+alias drif="docker rmi -f"
 alias ds="docker stop"
+alias dp="docker pull"
+alias dex="docker exec -it"
+#KUBERNESTES
+alias kstatus="kubectl cluster-info"
+alias k="kubectl"
+alias kc="kubectl config"
+alias kgc="kubectl config get-contexts"
 #GIT CONFIG
 alias gs="git status"
 alias ga="git add"

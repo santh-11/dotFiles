@@ -1,3 +1,4 @@
+#skipping the presents folder.
 jars/
 proj/
 py/
@@ -6,6 +7,7 @@ server/
 sqlCon/
 existingFiles/
 serverConfig.sh
+learnings/kubernetes/
 
 #skipping config files
 .angular-config.json
@@ -36,6 +38,6 @@ serverConfig.sh
 *.txt
 *.csv
 *.md
-
+.wget-hsts
 zsh-syntax-highlighting/
 

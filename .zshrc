@@ -1,5 +1,6 @@
 
-#ZSH things
+#ZSH things 
+#$HOME will give the home path which is nothing but /home/tessah
 export ZSH="$HOME/.oh-my-zsh"
 source $ZSH/oh-my-zsh.sh
 
@@ -15,11 +16,11 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 
 
 #file inclusion
-source serverConfig.sh
-source alias.sh
+source $HOME/serverConfig.sh
+source $HOME/alias.sh
 
 #highlights config
-source /home/tessah/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $HOME/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 #prompt config
 #PS1='%n@%m %/ $ '
