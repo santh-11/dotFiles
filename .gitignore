@@ -1,12 +1,6 @@
 #skipping the presents folder.
-jars/
 proj/
-py/
-scripts/
 server/
-sqlCon/
-existingFiles/
-serverConfig.sh
 learnings/kubernetes/
 
 #skipping config files

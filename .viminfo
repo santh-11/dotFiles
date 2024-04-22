@@ -15,7 +15,11 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1713686179,,"q"
+|2,0,1713785168,,"q"
+:es
+|2,0,1713772194,,"es"
+:ed
+|2,0,1713772192,,"ed"
 :wq
 |2,0,1713686102,,"wq"
 :lazy
@@ -23,7 +27,7 @@ $
 
 # Search String History (newest to oldest):
 ? @$
-|2,1,1711995334,,"@$"
+|2,1,1713772192,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -34,36 +38,212 @@ $
 # Registers:
 
 # File marks:
-'0  19  19  ~/.zshrc
-|4,48,19,19,1713686179,"~/.zshrc"
-'1  19  19  ~/.zshrc
-|4,49,19,19,1713686102,"~/.zshrc"
-'2  37  0  ~/alias.sh
-|4,50,37,0,1713685844,"~/alias.sh"
-'3  1  0  ~/server/alias.sh
-|4,51,1,0,1713180116,"~/server/alias.sh"
-'4  4  0  ~/.config/nvim/init.lua
-|4,52,4,0,1711997991,"~/.config/nvim/init.lua"
-'5  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,53,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
+'0  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,48,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+'1  7  79  ~/scripts
+|4,49,7,79,1713772198,"~/scripts"
+'2  19  19  ~/.zshrc
+|4,50,19,19,1713686179,"~/.zshrc"
+'3  19  19  ~/.zshrc
+|4,51,19,19,1713686102,"~/.zshrc"
+'4  37  0  ~/alias.sh
+|4,52,37,0,1713685844,"~/alias.sh"
+'5  1  0  ~/server/alias.sh
+|4,53,1,0,1713180116,"~/server/alias.sh"
 '6  4  0  ~/.config/nvim/init.lua
-|4,54,4,0,1711997379,"~/.config/nvim/init.lua"
-'7  1  0  ~/.config/nvim/init.lua
-|4,55,1,0,1711996826,"~/.config/nvim/init.lua"
-'8  1  0  ~/.config/nvim/init.lua
-|4,56,1,0,1711996826,"~/.config/nvim/init.lua"
+|4,54,4,0,1711997991,"~/.config/nvim/init.lua"
+'7  3  1  ~/.config/nvim/lua/raavan/core/options.lua
+|4,55,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
+'8  4  0  ~/.config/nvim/init.lua
+|4,56,4,0,1711997379,"~/.config/nvim/init.lua"
 '9  1  0  ~/.config/nvim/init.lua
 |4,57,1,0,1711996826,"~/.config/nvim/init.lua"
 
 # Jumplist (newest first):
+-'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  7  79  ~/scripts
+|4,39,7,79,1713772198,"~/scripts"
+-'  7  79  ~/scripts
+|4,39,7,79,1713772198,"~/scripts"
+-'  7  79  ~/scripts
+|4,39,7,79,1713772198,"~/scripts"
+-'  7  79  ~/scripts
+|4,39,7,79,1713772198,"~/scripts"
+-'  7  79  ~/scripts
+|4,39,7,79,1713772198,"~/scripts"
+-'  7  79  ~/scripts
+|4,39,7,79,1713772198,"~/scripts"
+-'  7  79  ~/scripts
+|4,39,7,79,1713772198,"~/scripts"
+-'  7  79  ~/scripts
+|4,39,7,79,1713772198,"~/scripts"
+-'  10  0  ~/scripts
+|4,39,10,0,1713772192,"~/scripts"
+-'  10  0  ~/scripts
+|4,39,10,0,1713772192,"~/scripts"
+-'  10  0  ~/scripts
+|4,39,10,0,1713772192,"~/scripts"
+-'  10  0  ~/scripts
+|4,39,10,0,1713772192,"~/scripts"
+-'  10  0  ~/scripts
+|4,39,10,0,1713772192,"~/scripts"
+-'  10  0  ~/scripts
+|4,39,10,0,1713772192,"~/scripts"
+-'  10  0  ~/scripts
+|4,39,10,0,1713772192,"~/scripts"
+-'  10  0  ~/scripts
+|4,39,10,0,1713772192,"~/scripts"
 -'  19  19  ~/.zshrc
 |4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686179,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
+-'  19  19  ~/.zshrc
+|4,39,19,19,1713686102,"~/.zshrc"
 -'  19  19  ~/.zshrc
 |4,39,19,19,1713686102,"~/.zshrc"
 -'  16  0  ~/.zshrc
 |4,39,16,0,1713686051,"~/.zshrc"
 -'  16  0  ~/.zshrc
 |4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
+-'  16  0  ~/.zshrc
+|4,39,16,0,1713686051,"~/.zshrc"
 -'  37  0  ~/alias.sh
 |4,39,37,0,1713685844,"~/alias.sh"
 -'  37  0  ~/alias.sh
@@ -72,192 +252,18 @@ $
 |4,39,37,0,1713685844,"~/alias.sh"
 -'  37  0  ~/alias.sh
 |4,39,37,0,1713685844,"~/alias.sh"
--'  1  0  ~/alias.sh
-|4,39,1,0,1713685839,"~/alias.sh"
--'  1  0  ~/alias.sh
-|4,39,1,0,1713685839,"~/alias.sh"
--'  1  0  ~/alias.sh
-|4,39,1,0,1713685839,"~/alias.sh"
--'  1  0  ~/alias.sh
-|4,39,1,0,1713685839,"~/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  1  0  ~/server/alias.sh
-|4,39,1,0,1713180116,"~/server/alias.sh"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  4  0  ~/.config/nvim/init.lua
-|4,39,4,0,1711997991,"~/.config/nvim/init.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  3  1  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,3,1,1711997744,"~/.config/nvim/lua/raavan/core/options.lua"
--'  1  0  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,1,0,1711997731,"~/.config/nvim/lua/raavan/core/options.lua"
--'  1  0  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,1,0,1711997731,"~/.config/nvim/lua/raavan/core/options.lua"
--'  1  0  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,1,0,1711997731,"~/.config/nvim/lua/raavan/core/options.lua"
--'  1  0  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,1,0,1711997731,"~/.config/nvim/lua/raavan/core/options.lua"
--'  1  0  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,1,0,1711997731,"~/.config/nvim/lua/raavan/core/options.lua"
--'  1  0  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,1,0,1711997731,"~/.config/nvim/lua/raavan/core/options.lua"
--'  1  0  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,1,0,1711997731,"~/.config/nvim/lua/raavan/core/options.lua"
--'  1  0  ~/.config/nvim/lua/raavan/core/options.lua
-|4,39,1,0,1711997731,"~/.config/nvim/lua/raavan/core/options.lua"
+-'  37  0  ~/alias.sh
+|4,39,37,0,1713685844,"~/alias.sh"
+-'  37  0  ~/alias.sh
+|4,39,37,0,1713685844,"~/alias.sh"
+-'  37  0  ~/alias.sh
+|4,39,37,0,1713685844,"~/alias.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
+	*	1713774319	0
+	"	1014	0
 
 > ~/.zshrc
 	*	1713686179	0
