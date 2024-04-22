@@ -33,5 +33,4 @@ learnings/kubernetes/
 *.csv
 *.md
 .wget-hsts
-zsh-syntax-highlighting/
 .kube/
