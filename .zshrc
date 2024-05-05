@@ -2,10 +2,12 @@
 #ZSH things 
 #$HOME will give the home path which is nothing but /home/tessah
 export ZSH="$HOME/.oh-my-zsh"
-source $ZSH/oh-my-zsh.sh
+#instead of source we can use .
+. $ZSH/oh-my-zsh.sh
 #starship config
 eval "$(starship init zsh)"
-
+#the below line will add bashScripts path to the global path variable so we can execute the scripts inside the bashScripts folder from anywhere.
+export PATH=$PATH:$HOME/learnings/bashScripts/
 
 #configs for node
 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
@@ -13,7 +15,7 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 
 #file inclusion
 export scriptPath="$HOME/scripts"
-source $scriptPath/serverConfig.sh
-source $scriptPath/alias.sh
-source $scriptPath/pluginsConfig.sh
+. $scriptPath/serverConfig.sh
+. $scriptPath/alias.sh
+. $scriptPath/pluginsConfig.sh
 

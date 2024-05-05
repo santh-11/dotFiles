@@ -33,4 +33,6 @@ learnings/kubernetes/
 *.csv
 *.md
 .wget-hsts
+.viminfo
 .kube/
+

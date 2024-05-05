@@ -54,3 +54,4 @@ alias mans="compgen -c|fzf|xargs man"
 
 #DIRECTORY LOCATION
 alias zplugin="cd $HOME/.oh-my-zsh/custom/plugins/"
+alias learn="cd ~/learnings/"
