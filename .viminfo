@@ -14,10 +14,14 @@
 $
 
 # Command Line History (newest to oldest):
-:q
-|2,0,1714901859,,"q"
 :wq
-|2,0,1714895371,,"wq"
+|2,0,1720014651,,"wq"
+:Wq
+|2,0,1720014650,,"Wq"
+:q
+|2,0,1720014574,,"q"
+:q!
+|2,0,1720008029,,"q!"
 :es
 |2,0,1713772194,,"es"
 :ed
@@ -38,248 +42,268 @@ $
 # Registers:
 
 # File marks:
-'0  317  1  ~/.viminfo
-|4,48,317,1,1714901859,"~/.viminfo"
-'1  17  1  ~/.zshrc
-|4,49,17,1,1714895371,"~/.zshrc"
-'2  1  0  ~/zshrc
-|4,50,1,0,1714895328,"~/zshrc"
-'3  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,51,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
-'4  7  79  ~/scripts
-|4,52,7,79,1713772198,"~/scripts"
-'5  19  19  ~/.zshrc
-|4,53,19,19,1713686179,"~/.zshrc"
-'6  19  19  ~/.zshrc
-|4,54,19,19,1713686179,"~/.zshrc"
-'7  19  19  ~/.zshrc
-|4,55,19,19,1713686102,"~/.zshrc"
-'8  19  19  ~/.zshrc
-|4,56,19,19,1713686102,"~/.zshrc"
-'9  37  0  ~/alias.sh
-|4,57,37,0,1713685844,"~/alias.sh"
+'0  38  4  ~/.gitignore
+|4,48,38,4,1720014651,"~/.gitignore"
+'1  38  4  ~/.gitignore
+|4,49,38,4,1720014604,"~/.gitignore"
+'2  6  0  ~/.zshrc
+|4,50,6,0,1720014574,"~/.zshrc"
+'3  1  0  ~/.zshrc
+|4,51,1,0,1720008671,"~/.zshrc"
+'4  1  0  ~/.zshrc
+|4,52,1,0,1720008671,"~/.zshrc"
+'5  17  15  ~/.zshrc
+|4,53,17,15,1720008626,"~/.zshrc"
+'6  17  15  ~/.zshrc
+|4,54,17,15,1720008626,"~/.zshrc"
+'7  9  34  ~/.zshrc
+|4,55,9,34,1720008251,"~/.zshrc"
+'8  9  34  ~/.zshrc
+|4,56,9,34,1720008251,"~/.zshrc"
+'9  9  34  ~/.zshrc
+|4,57,9,34,1720008251,"~/.zshrc"
 
 # Jumplist (newest first):
--'  317  1  ~/.viminfo
-|4,39,317,1,1714901859,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1714901857,"~/.viminfo"
--'  123  0  ~/.viminfo
-|4,39,123,0,1714901854,"~/.viminfo"
--'  17  1  ~/.zshrc
-|4,39,17,1,1714895371,"~/.zshrc"
--'  17  1  ~/.zshrc
-|4,39,17,1,1714895371,"~/.zshrc"
--'  19  19  ~/.zshrc
-|4,39,19,19,1714895332,"~/.zshrc"
--'  19  19  ~/.zshrc
-|4,39,19,19,1714895332,"~/.zshrc"
--'  1  0  ~/zshrc
-|4,39,1,0,1714895328,"~/zshrc"
--'  1  0  ~/zshrc
-|4,39,1,0,1714895328,"~/zshrc"
--'  1  0  ~/zshrc
-|4,39,1,0,1714895328,"~/zshrc"
--'  1  0  ~/zshrc
-|4,39,1,0,1714895328,"~/zshrc"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1014  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1014,0,1713774320,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  6  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,6,0,1713774312,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
--'  1  0  ~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh
-|4,39,1,0,1713774310,"~/.config/zsh/plugins/zsh-z/zsh-z.plugin.zsh"
+-'  38  4  ~/.gitignore
+|4,39,38,4,1720014651,"~/.gitignore"
+-'  38  4  ~/.gitignore
+|4,39,38,4,1720014604,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1720014588,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1720014588,"~/.gitignore"
+-'  6  0  ~/.zshrc
+|4,39,6,0,1720014574,"~/.zshrc"
+-'  6  0  ~/.zshrc
+|4,39,6,0,1720014574,"~/.zshrc"
+-'  6  0  ~/.zshrc
+|4,39,6,0,1720014574,"~/.zshrc"
+-'  6  0  ~/.zshrc
+|4,39,6,0,1720014574,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1720008698,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1720008698,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1720008698,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1720008698,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1720008671,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1720008671,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1720008671,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1720008671,"~/.zshrc"
+-'  17  15  ~/.zshrc
+|4,39,17,15,1720008626,"~/.zshrc"
+-'  17  15  ~/.zshrc
+|4,39,17,15,1720008626,"~/.zshrc"
+-'  17  15  ~/.zshrc
+|4,39,17,15,1720008626,"~/.zshrc"
+-'  17  15  ~/.zshrc
+|4,39,17,15,1720008626,"~/.zshrc"
+-'  17  15  ~/.zshrc
+|4,39,17,15,1720008626,"~/.zshrc"
+-'  17  15  ~/.zshrc
+|4,39,17,15,1720008626,"~/.zshrc"
+-'  17  15  ~/.zshrc
+|4,39,17,15,1720008626,"~/.zshrc"
+-'  17  15  ~/.zshrc
+|4,39,17,15,1720008626,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008306,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008306,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008306,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008306,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008306,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008306,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008306,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008306,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008261,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008261,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008261,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008261,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008251,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008251,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008251,"~/.zshrc"
+-'  9  34  ~/.zshrc
+|4,39,9,34,1720008251,"~/.zshrc"
+-'  6  11  ~/.zshrc
+|4,39,6,11,1720008143,"~/.zshrc"
+-'  6  11  ~/.zshrc
+|4,39,6,11,1720008143,"~/.zshrc"
+-'  6  11  ~/.zshrc
+|4,39,6,11,1720008143,"~/.zshrc"
+-'  6  11  ~/.zshrc
+|4,39,6,11,1720008143,"~/.zshrc"
+-'  6  11  ~/.zshrc
+|4,39,6,11,1720008143,"~/.zshrc"
+-'  6  11  ~/.zshrc
+|4,39,6,11,1720008143,"~/.zshrc"
+-'  6  11  ~/.zshrc
+|4,39,6,11,1720008143,"~/.zshrc"
+-'  6  11  ~/.zshrc
+|4,39,6,11,1720008143,"~/.zshrc"
+-'  6  11  ~/.zshrc
+|4,39,6,11,1720008143,"~/.zshrc"
+-'  6  11  ~/.zshrc
+|4,39,6,11,1720008143,"~/.zshrc"
+-'  6  11  ~/.zshrc
+|4,39,6,11,1720008143,"~/.zshrc"
+-'  6  11  ~/.zshrc
+|4,39,6,11,1720008143,"~/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
+-'  1  0  ~/.pyenv/bin/.zshrc
+|4,39,1,0,1720008089,"~/.pyenv/bin/.zshrc"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1720014650	0
+	"	38	4
+	^	38	5
+	.	38	4
+	+	38	4
+
+> ~/.zshrc
+	*	1720014574	0
+	"	6	0
+	^	9	35
+	.	9	35
+	+	22	5
+	+	23	35
+	+	25	19
+	+	26	19
+	+	24	1
+	+	25	1
+	+	26	1
+	+	24	3
+	+	13	0
+	+	11	33
+	+	9	29
+	+	6	0
+	+	9	35
+
+> ~/.pyenv/bin/.zshrc
+	*	1720008089	0
+	"	1	0
+
+> /etc/nginx/nginx.conf
+	*	1719988799	0
+	"	48	1
 
 > ~/.viminfo
 	*	1714901858	0
 	"	317	1
-
-> ~/.zshrc
-	*	1714895370	0
-	"	17	1
-	^	17	2
-	.	17	3
-	+	15	5
-	+	16	35
-	+	18	19
-	+	19	19
-	+	17	1
-	+	18	1
-	+	19	1
-	+	17	3
 
 > ~/zshrc
 	*	1714895328	0

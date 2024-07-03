@@ -35,4 +35,4 @@ learnings/kubernetes/
 .wget-hsts
 .viminfo
 .kube/
-
+*.pem

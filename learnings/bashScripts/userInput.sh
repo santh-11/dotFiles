@@ -1,8 +1,16 @@
 #!/usr/bin/env bash
 
 #set -eo pipefail
-set -e 
+set -e
 
+#array declaration
+a=(1 3 4 5 67)
+for i in ${a[@]};do
+  echo $i;
+done
+
+#echo ${a[1]}
+echo $#
 if ls|grep -q numbers.txt;then
   echo "file present "
 else 
