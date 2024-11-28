@@ -50,7 +50,8 @@ alias gcheckout="git checkout"
 
 #ONE LINE CONFIGS
 alias mans="compgen -c|fzf|xargs man"
-
+alias f="fzf|xargs cat"
+alias ef="fzf|xargs vi"
 
 #DIRECTORY LOCATION
 alias zplugin="cd $HOME/.oh-my-zsh/custom/plugins/"

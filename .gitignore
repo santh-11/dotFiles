@@ -11,7 +11,7 @@ learnings/kubernetes/
 .bash_history
 .bash_logout
 .cache/
-#.config/
+.config/
 .docker/
 .java/
 .lesshst
@@ -36,3 +36,9 @@ learnings/kubernetes/
 .viminfo
 .kube/
 *.pem
+.gradle/
+.ollama/
+apache-jmeter*
+jmeter.*
+node/
+
