@@ -1,6 +1,5 @@
 #plugins section
-export CUSTOMPLUGINPATH=$ZSH_CUSTOM/plugins/
-
+export CUSTOMPLUGINPATH="${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins"
 source $CUSTOMPLUGINPATH/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source $CUSTOMPLUGINPATH/zsh-autosuggestions/zsh-autosuggestions.zsh
 

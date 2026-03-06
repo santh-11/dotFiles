@@ -56,4 +56,3 @@ alias ef="fzf|xargs vi"
 #DIRECTORY LOCATION
 alias zplugin="cd $HOME/.oh-my-zsh/custom/plugins/"
 alias learn="cd ~/learnings/"
-alias windows="cd /mnt/c/Users/Santhanam/Documents/Code"
