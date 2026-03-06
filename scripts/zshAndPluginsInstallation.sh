@@ -1,5 +1,8 @@
-customePluginPath="$HOME/.oh-my-zsh/custom/plugins/"
+#cloning zsh first which include the .oh-my-zsh script
+git clone https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh
 
+
+customePluginPath="$HOME/.oh-my-zsh/custom/plugins/" # custom plugin default folder
 
 git clone "https://github.com/zsh-users/zsh-syntax-highlighting.git" $customePluginPath/zsh-syntax-highlighting
 git clone "https://github.com/zsh-users/zsh-autosuggestions.git" $customePluginPath/zsh-autosuggestions

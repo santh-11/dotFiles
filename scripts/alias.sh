@@ -56,3 +56,9 @@ alias ef="fzf|xargs vi"
 #DIRECTORY LOCATION
 alias zplugin="cd $HOME/.oh-my-zsh/custom/plugins/"
 alias learn="cd ~/learnings/"
+
+#shared drive alias 
+alias keya="cd /mnt/common"
+alias obs="cd /mnt/common/Obsidian && obsidian ."
+
+
